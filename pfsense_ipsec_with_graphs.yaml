@@ -123,3 +123,4 @@ zabbix_export:
               newvalue: Up
             - value: '2'
               newvalue: 'Phase 1 Only'
+              
